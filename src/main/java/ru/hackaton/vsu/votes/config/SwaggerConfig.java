@@ -21,7 +21,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("ru.hackaton.vsu.votes.controller;"))
+                .apis(RequestHandlerSelectors.basePackage("ru.hackaton.vsu.votes.controller"))
                 .paths(paths())
                 .build();
     }
