@@ -27,6 +27,9 @@ $ cd votes-frontend
 $ npm build
 $ ng serve
 ```
+
+### DATABASE
+(https://i.ibb.co/C6czkNB/database.png)
 ### Todos
 
  - Write MORE Tests
