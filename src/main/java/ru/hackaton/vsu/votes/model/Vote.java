@@ -1,5 +1,5 @@
 package ru.hackaton.vsu.votes.model;
-import com.example.polls.model.audit.DateAudit;
+import ru.hackaton.vsu.votes.model.audit.DateAudit;
 import javax.persistence.*;
 
 @Entity
