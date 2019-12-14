@@ -6,7 +6,7 @@ Votes is a spring boot application which gives an opportunity to create polls
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Votes app uses a number of open source projects to work properly:
 
 * [Angular] - [PROGRESS] FRONT-END FRAMEWORK
 * [Spring boot] - provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
