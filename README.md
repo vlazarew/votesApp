@@ -27,6 +27,9 @@ $ cd votes-frontend
 $ npm build
 $ ng serve
 ```
+
+### DATABASE
+[![N|Solid](https://i.ibb.co/C6czkNB/database.png)(https://spring.io/projects/spring-boot)
 ### Todos
 
  - Write MORE Tests
