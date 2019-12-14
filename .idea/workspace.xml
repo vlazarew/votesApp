@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8616c2c-13b5-4dfd-ad05-787d5cd941ea" name="Default" comment="" />
+    <list default="true" id="b8616c2c-13b5-4dfd-ad05-787d5cd941ea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/hackaton/vsu/votes/config/AuditingConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/hackaton/vsu/votes/config/AuditingConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
